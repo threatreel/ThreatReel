@@ -1,4 +1,6 @@
-## Hi there 👋
+## Official Site of the ThreatReel Podcast
+
+Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!
 
 <!--
 **threatreel/ThreatReel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
