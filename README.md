@@ -1,5 +1,5 @@
 ## Official Site of the ThreatReel Podcast
-
+[](./assets/images/tr_logo_cropped.png)
 Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!<br><br>
 
 ![All ThreatReel Episodes Available on YouTube](./assets/images/youtube_logo.png)<br>
