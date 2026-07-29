@@ -3,7 +3,7 @@
 Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!
 
 ![All ThreatReel Episodes Available on YouTube](./assets/images/youtube_logo.png)<br>
-[ThreatReel Podcast](https://youtube.com/@threatreel)<br>
+[ThreatReel Podcast](https://youtube.com/@threatreel)<br><br>
 
 ### Host: Matt Scheurer
 Matt Scheurer ([cerkah](https://github.com/cerkah)) is the show host of the ThreatReel Podcast, and Vice President of Computer Security and Incident Response in a large enterprise environment. He has many years of hands-on technical experience. Matt is an official "Hacking is NOT a Crime" Advocate, serves on the Advisory Board for the Warren County Career Center "Information Technology and Cybersecurity" program, and also volunteers as a technical mentor for the Women's Security Alliance (WomSA). He has presented numerous Information Security topics at countless technology meetup groups, and prominent Information Security conferences, including keynotes at the Cybersecurity Collaboration Forum Cincinnati Leadership Exchange, the Information Security Summit in Cleveland, Queen City Con (0x1, 0x2, and 0x3) in Cincinnati, and SecureWV in Charleston. He is awarded with delivering lifetime conference Keynote Addresses at Queen City Con. Matt is also a 2019 comSpark "Rising Tech Stars Award" winner, named a "Top 12 Hacking Influencer" by Bishop Fox in 2023, and awarded a "Black Badge" for continuous community engagement at Queen City Con in 2024.
