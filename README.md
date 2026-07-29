@@ -3,7 +3,7 @@
 Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!
 
 ![All ThreatReel Episodes Available on YouTube](../main/assets/images/youtube_logo.png)
-[ThreatReel Podcast]
+[ThreatReel Podcast]<br>
 (https://youtube.com/@threatreel)
 
 ### Host: Matt Scheurer
