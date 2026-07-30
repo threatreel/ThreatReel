@@ -25,7 +25,7 @@ Tuan Q. Phan ([phanrensics](https://github.com/phanrensics)) is Senior Engineer 
 ![Follow ThreatReel on LinkedIn](./assets/images/linkedin_logo.png)<br>
 [Linkedin](https://www.linkedin.com/company/threatreel)<br><br>
 
-![Follow ThreatReel on X](./assets/images/x_logo.png)<br><br>
+![Follow ThreatReel on X](./assets/images/x_logo.png)<br>
 [X.com](https://x.com/threatreel)<br><br><br>
 
 > [!NOTE]
