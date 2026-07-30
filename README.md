@@ -17,15 +17,15 @@ Micah K. Brown ([micahkbrown](https://github.com/micahkbrown)) is co-host of the
 ![Tuan](./assets/images/tuan_300-300.png)<br>
 Tuan Q. Phan ([phanrensics](https://github.com/phanrensics)) is Senior Engineer and Producer for the ThreatReel Podcast. Tuan is also an Independent Security Researcher and Subject Matter Expert (SME) in Digital Forensics, Investigation, Data Security, eDiscovery, and Insider Threat strategy. His extensive background includes Network Services, Production Lifecycle Management (PLM), Vulnerability Management, and Penetration Testing. Most recently, works for a big well-known organization, as an AVP of eDiscovery and Forensics Examiner. Tuan has many years of professional experience in Digital Forensics, including thousands of preservations in collections of both software and hardware platforms in the U.S. and Internationally. Tuan earned a bachelor’s degree in business administration in Information Systems from the University of Cincinnati. He is a Cellebrite Certified Mobile Examiner (CCME), and Magnet Certified Forensic Examiner (MCFE). Tuan has also presented numerous info security topics at many info security conferences.<br><br><br>
 
-**Social Media**<br>
+**Social Media**<br><br>
 
-![FaceBook-logo](./assets/images/facebook_logo.png)<br>
+![Follow ThreatReel on FaceBook](./assets/images/facebook_logo.png)<br>
 [Facebook](https://www.facebook.com/threatreel)<br><br>
 
-LinkedIn<br>
+![Follow ThreatReel on LinkedIn](./assets/images/linkedin_logo.png)<br>
 [Linkedin](https://www.linkedin.com/company/threatreel)<br><br>
 
-X.com<br>
+![Follow ThreatReel on X](./assets/images/x_logo.png)<br><br>
 [X.com](https://x.com/threatreel)<br><br><br>
 
 > [!NOTE]
