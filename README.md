@@ -19,7 +19,7 @@ Tuan Q. Phan ([phanrensics](https://github.com/phanrensics)) is Senior Engineer 
 
 **Social Media**<br>
 
-Facebook<br>
+![FaceBook-logo](./assets/images/facebook_logo.png)<br>
 [Facebook](https://www.facebook.com/threatreel)<br><br>
 
 LinkedIn<br>
