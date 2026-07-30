@@ -25,7 +25,7 @@ Facebook<br>
 LinkedIn<br>
 [Linkedin](https://www.linkedin.com/company/threatreel)<br><br>
 
-X<br>
+X.com<br>
 [X](https://x.com/threatreel)<br><br>
 
 > [!NOTE]
