@@ -26,7 +26,7 @@ LinkedIn<br>
 [Linkedin](https://www.linkedin.com/company/threatreel)<br><br>
 
 X.com<br>
-[X](https://x.com/threatreel)<br><br>
+[X.com](https://x.com/threatreel)<br><br>
 
 > [!NOTE]
 > ThreatReel Podcast Episode music © 2021 [Dave Wheitner](https://www.davewheitner.com/music/). All rights reserved. Used by ThreatReel with permission.
