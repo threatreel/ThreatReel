@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://rss.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1738293.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>ThreatReel</title>
+
+  <lastBuildDate>Thu, 05 Mar 2026 10:15:45 -0500</lastBuildDate>
+  <link>https://threatreel.com</link>
+  <language>en-us</language>
+  <copyright>© 2026 ThreatReel</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>db790451-e2c0-5ac8-bd11-5ebe42af7bc5</podcast:guid>
+  <itunes:author>Matt Scheurer &amp; Micah K. Brown</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[The ThreatReal Podcast covers Information Security news, events, and trends in cybersecurity with a technical focus. Join hosts Matt Scheurer and Micah K. Brown as they dig deep into the threats impacting enterprise environments and home networks. Discussion topics around threats include the actors, the hunting, the intelligence, the modeling, and more! Visit us online at https://threatreel.com]]></description>
+  <generator>ThreatReel (https://threatreel.com)</generator>
+  <itunes:owner>
+    <itunes:name>Matt Scheurer &amp; Micah K. Brown</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/threatreel-cast-logo.jpg</url>
+     <title>ThreatReel</title>
+     <link>https://threatreel.com</link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/threatreel-cast-logo.jpg" />
+  <itunes:category text="News">
+    <itunes:category text="Tech News" />
+  </itunes:category>
+  <itunes:category text="Technology" />
+  <itunes:category text="True Crime" />
+  <podcast:person role="host" img="https://storage.buzzsprout.com/ghen9p2whhp4ocvt62mlaehabng2">Matt Scheurer</podcast:person>
+  <podcast:person role="co-host" img="https://storage.buzzsprout.com/9newnzhe7mjg6kqzcxthnglx6zs8">Micah K. Brown</podcast:person>
+  <item>
+    <itunes:title>2021 RSA Conference Preview | ThreatReel S01E02</itunes:title>
+    <title>2021 RSA Conference Preview | ThreatReel S01E02</title>
+    <itunes:summary><![CDATA[Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks with a technical focus. Join the all-new ThreatReel Podcast as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more! In this episode of ThreatReel, hosts Matt Scheurer and Micah Brown preview the upcoming 2021 RSA Conference. Micah discusses his u...]]></itunes:summary>
+    <description><![CDATA[<p>Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks with a technical focus. Join the all-new ThreatReel Podcast as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!</p><p>In this episode of ThreatReel, hosts Matt Scheurer and Micah Brown preview the upcoming 2021 RSA Conference. Micah discusses his upcoming presentation at RSA titled “WAF Made Easy”, including teasers for his talk. Matt and Micah converse about Web Application Firewalls (WAFs), why they are important, and how they differ from a conventional network firewall.</p><p>The remainder of the show is devoted to a discussion on RSA and other security conferences. Our hosts discuss how RSA differs from smaller security conferences. As frequent speakers at information security conferences across the country, ThreatReel Podcast hosts Matt Scheurer and Micah Brown share their strategies and tips for how to get the most out of a security conference experience and professional networking opportunities. Topics include secret strategies on possibly obtaining free tickets or other avenues to find the same content after a conference is over.</p><p>The show closes out highlighting upcoming events featuring appearances from our hosts.</p>]]></description>
+    <content:encoded><![CDATA[<p>Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks with a technical focus. Join the all-new ThreatReel Podcast as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!</p><p>In this episode of ThreatReel, hosts Matt Scheurer and Micah Brown preview the upcoming 2021 RSA Conference. Micah discusses his upcoming presentation at RSA titled “WAF Made Easy”, including teasers for his talk. Matt and Micah converse about Web Application Firewalls (WAFs), why they are important, and how they differ from a conventional network firewall.</p><p>The remainder of the show is devoted to a discussion on RSA and other security conferences. Our hosts discuss how RSA differs from smaller security conferences. As frequent speakers at information security conferences across the country, ThreatReel Podcast hosts Matt Scheurer and Micah Brown share their strategies and tips for how to get the most out of a security conference experience and professional networking opportunities. Topics include secret strategies on possibly obtaining free tickets or other avenues to find the same content after a conference is over.</p><p>The show closes out highlighting upcoming events featuring appearances from our hosts.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/1738293/episodes/8523293-2021-rsa-conference-preview-threatreel-s01e02.mp3" length="31384032" type="audio/mpeg" />
+    <itunes:author>Matt Scheurer &amp; Micah K. Brown</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-8523293</guid>
+    <pubDate>Fri, 14 May 2021 22:00:00 -0400</pubDate>
+    <itunes:duration>2612</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>HAFNIUM, Then and Now | ThreatReel S01E01</itunes:title>
+    <title>HAFNIUM, Then and Now | ThreatReel S01E01</title>
+    <itunes:summary><![CDATA[Threats abound everywhere across the Cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks with a technical focus. Join the all-new ThreatReel Podcast as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!  In this episode of ThreatReel, hosts Matt Scheurer and Micah Brown discuss HAFNIUM. Topics include details around the original Mi...]]></itunes:summary>
+    <description><![CDATA[<p>Threats abound everywhere across the Cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks with a technical focus. Join the all-new ThreatReel Podcast as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!<br/><br/>In this episode of ThreatReel, hosts Matt Scheurer and Micah Brown discuss HAFNIUM. Topics include details around the original Microsoft Exchange vulnerabilities and malicious web shell exploits, mitigation strategies, indicators of compromise, threat hunting strategies, and file integrity monitoring. Discussions then shift towards Microsoft Defender ATP mitigations, and the FBI exploiting vulnerabilities to currently compromised mail servers to clean them of unwanted web shells. The show closes out highlighting upcoming events featuring appearances from our hosts.</p>]]></description>
+    <content:encoded><![CDATA[<p>Threats abound everywhere across the Cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks with a technical focus. Join the all-new ThreatReel Podcast as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!<br/><br/>In this episode of ThreatReel, hosts Matt Scheurer and Micah Brown discuss HAFNIUM. Topics include details around the original Microsoft Exchange vulnerabilities and malicious web shell exploits, mitigation strategies, indicators of compromise, threat hunting strategies, and file integrity monitoring. Discussions then shift towards Microsoft Defender ATP mitigations, and the FBI exploiting vulnerabilities to currently compromised mail servers to clean them of unwanted web shells. The show closes out highlighting upcoming events featuring appearances from our hosts.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/1738293/episodes/8394322-hafnium-then-and-now-threatreel-s01e01.mp3" length="42057653" type="audio/mpeg" />
+    <itunes:author>Matt Scheurer &amp; Micah K. Brown</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-8394322</guid>
+    <pubDate>Fri, 23 Apr 2021 23:00:00 -0400</pubDate>
+    <itunes:duration>3502</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Introducing the ThreatReel Podcast | ThreatReel Pilot Episode S01E00</itunes:title>
+    <title>Introducing the ThreatReel Podcast | ThreatReel Pilot Episode S01E00</title>
+    <itunes:summary><![CDATA[This is an experimental recording to introduce the all-new ThreatReel Podcast. Threats abound everywhere across the Cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks with a technical focus. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!  In this unofficial pilot episode of ThreatReel, hosts Matt Scheurer and Micah ...]]></itunes:summary>
+    <description><![CDATA[<p>This is an experimental recording to introduce the all-new ThreatReel Podcast. Threats abound everywhere across the Cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks with a technical focus. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!<br/><br/>In this unofficial pilot episode of ThreatReel, hosts Matt Scheurer and Micah Brown discuss their backgrounds and the journeys from their small-town Ohio roots to their ascension to speaking at numerous prominent and prestigious security conferences across the country. Matt and Micah reminisce and share some of their favorite memorable conference and meetup group moments.  <br/><br/>Matt and Micah talk about the events that brought them to work together and give back to their local information security community by sharing knowledge and mentoring others. They discuss the inspirations, music, and plans for ThreatReel. The show closes out highlighting upcoming events featuring appearances from our hosts.</p>]]></description>
+    <content:encoded><![CDATA[<p>This is an experimental recording to introduce the all-new ThreatReel Podcast. Threats abound everywhere across the Cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks with a technical focus. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more!<br/><br/>In this unofficial pilot episode of ThreatReel, hosts Matt Scheurer and Micah Brown discuss their backgrounds and the journeys from their small-town Ohio roots to their ascension to speaking at numerous prominent and prestigious security conferences across the country. Matt and Micah reminisce and share some of their favorite memorable conference and meetup group moments.  <br/><br/>Matt and Micah talk about the events that brought them to work together and give back to their local information security community by sharing knowledge and mentoring others. They discuss the inspirations, music, and plans for ThreatReel. The show closes out highlighting upcoming events featuring appearances from our hosts.</p>]]></content:encoded>
+    <enclosure url="https://www.buzzsprout.com/1738293/episodes/8274732-introducing-the-threatreel-podcast-threatreel-pilot-episode-s01e00.mp3" length="41694709" type="audio/mpeg" />
+    <itunes:author>Matt Scheurer &amp; Micah K. Brown</itunes:author>
+    <guid isPermaLink="false">Buzzsprout-8274732</guid>
+    <pubDate>Fri, 09 Apr 2021 00:00:00 -0400</pubDate>
+    <itunes:duration>3471</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>0</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
