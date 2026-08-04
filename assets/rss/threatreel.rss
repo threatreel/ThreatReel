@@ -9,7 +9,7 @@
       <itunes:email>noreply@threatreel.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://raw.githubusercontent.com/threatreel/ThreatReel/refs/heads/main/assets/images/threatreel-show-logo.png"/>
+    <itunes:image href="https://threatreel.com/assets/images/threatreel-show-logo.png"/>
     <itunes:category text="Technology"/>
     <item>
       <title>2021 RSA Conference Preview | ThreatReel S01E02</title>
