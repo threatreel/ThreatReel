@@ -3,10 +3,10 @@
   <channel>
     <title>ThreatReel</title>
     <language>en-us</language>
-    <itunes:author>Matt Scheurer</itunes:author>
+    <itunes:author>Matt Scheurer 	&amp; Micah K. Brown</itunes:author>
     <itunes:owner>
-      <itunes:name>Matt Scheurer & Micah K. Brown</itunes:name>
-      <itunes:email>admins@threatreel.com</itunes:email>
+      <itunes:name>ThreatReel Admins</itunes:name>
+      <itunes:email>adminss@threatreel.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://threatreel.com/assets/images/threatreel-show-logo.png"/>
