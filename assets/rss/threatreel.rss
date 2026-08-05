@@ -12,7 +12,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://threatreel.com/assets/images/threatreel-show-logo.png"/>
     <itunes:category text="Technology"/>
-    <description>Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and more...</description>
+    <description>Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and beyond!</description>
     <item>
       <title>2021 RSA Conference Preview | ThreatReel S01E02</title>
       <enclosure url="https://pub-8807a58f782f47ddb16556f41be7cb86.r2.dev/threatreel/rsa-conference-preview-threatreel-s01e02.mp3" length="31384032" type="audio/mpeg"/>
