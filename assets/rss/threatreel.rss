@@ -17,6 +17,7 @@
     <itunes:category text="Technology"/>
     <item>
       <title>2021 RSA Conference Preview | ThreatReel S01E02</title>
+      <description>In this episode of ThreatReel, hosts Matt Scheurer and Micah Brown discuss HAFNIUM. Topics include details around the original Microsoft Exchange vulnerabilities and malicious web shell exploits, mitigation strategies, indicators of compromise, threat hunting strategies, and file integrity monitoring. Discussions then shift towards Microsoft Defender ATP mitigations, and the FBI exploiting vulnerabilities to currently compromised mail servers to clean them of unwanted web shells.</description>
       <guid isPermaLink="false">threatreel-s01e02</guid>
       <enclosure url="https://pub-8807a58f782f47ddb16556f41be7cb86.r2.dev/threatreel/rsa-conference-preview-threatreel-s01e02.mp3" length="31384032" type="audio/mpeg"/>
       <itunes:duration>43:32</itunes:duration>
