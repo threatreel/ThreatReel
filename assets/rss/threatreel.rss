@@ -30,7 +30,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:duration>43:32</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <pubDate>Fri, 14 May 2021 12:00:00 -0400</pubDate>
     </item>
     <item>
@@ -41,7 +41,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:duration>58:22</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <pubDate>Fri, 23 Apr 2021 12:00:00 -0400</pubDate>
     </item>
     <item>
@@ -52,7 +52,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:duration>57:51</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <pubDate>Fri, 09 Apr 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
