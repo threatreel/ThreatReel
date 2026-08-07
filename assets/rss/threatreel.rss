@@ -10,14 +10,14 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <language>en-us</language>
     <link>https://threatreel.com</link>
     <copyright>© 2026 ThreatReel</copyright>
+    <description>Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and beyond!</description>
     <itunes:author>Matt Scheurer & Micah K. Brown</itunes:author>
     <itunes:owner>
       <itunes:name>ThreatReel Admins</itunes:name>
       <itunes:email>admins@threatreel.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:summary>Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks.</itunes:summary>
-    <description>Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and beyond!</description>
     <itunes:image href="https://threatreel.com/assets/images/threatreel-show-logo.png"/>
     <itunes:category text="Technology"/>
     <item>
