@@ -1,6 +1,6 @@
 ![Official Site of the ThreatReel Podcast](./assets/images/tr_logo_cropped.png)<br>
 
-Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and beyond! ThreatReel is ranked a Top One Million site by Google Threat Intelligence and recognized as a ["Must-Listen Top Cybersecurity Podcast"](https://bishopfox.com/blog/must-listen-top-cybersecurity-podcasts) by Bishop Fox!<br><br>
+Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and beyond! ThreatReel is ranked a Top One Million site by Google Threat Intelligence and recognized as a ["Must-Listen Top Cybersecurity Podcast"](https://bishopfox.com/blog/must-listen-top-cybersecurity-podcasts)!<br><br>
 
 ![All ThreatReel Episodes Available on YouTube](./assets/images/youtube_logo.png)<br>
 [ThreatReel Episodes](https://youtube.com/@threatreel)<br><br>
