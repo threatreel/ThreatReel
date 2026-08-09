@@ -23,7 +23,8 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <itunes:category text="Technology"/>
     <item>
       <title>2021 RSA Conference Preview | ThreatReel S01E02</title>
-      <description>In this episode of ThreatReel, hosts Matt Scheurer and Micah K. Brown discuss attending RSA and getting the most out of attending a security or hacker conference.</description>
+      <itunes:summary>Matt Scheurer and Micah Brown preview the upcoming 2021 RSA Conference. Micah discusses his upcoming presentation at RSA titled “WAF Made Easy”, including teasers for his talk. This leads to conversations about Web Application Firewalls (WAFs), why they are important, and how they differ from a conventional network firewall.</itunes:summary>
+      <description>In this episode of ThreatReel, Matt Scheurer and Micah Brown preview the upcoming 2021 RSA Conference. Micah discusses his upcoming presentation at RSA titled “WAF Made Easy”, including teasers for his talk. Matt and Micah converse about Web Application Firewalls (WAFs), why they are important, and how they differ from a conventional network firewall. The host also discuss attending RSA and getting the most out of attending a security or hacker conference.</description>
       <guid isPermaLink="false">Buzzsprout-8523293</guid>
       <itunes:image href="https://threatreel.com/assets/images/threatreel-show-logo.png"/>
       <enclosure url="https://pub-8807a58f782f47ddb16556f41be7cb86.r2.dev/threatreel/rsa-conference-preview-threatreel-s01e02.mp3" length="31384032" type="audio/mpeg"/>
