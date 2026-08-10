@@ -8,7 +8,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <title>ThreatReel</title>
     <language>en-us</language>
     <link>https://threatreel.com</link>
-    <copyright>© 2026 ThreatReel</copyright>
+    <copyright>Copyright 2026, ThreatReel Podcast</copyright>
     <podcast:locked>yes</podcast:locked>
     <podcast:guid>db790451-e2c0-5ac8-bd11-5ebe42af7bc5</podcast:guid>
     <description>Threats abound everywhere across the cybersecurity landscape! The ThreatReel Podcast digs deep into the threats impacting enterprise environments and home networks. Join us as we discuss the latest information security news around threats including the actors, the hunting, the intelligence, the modeling, and beyond!</description>
