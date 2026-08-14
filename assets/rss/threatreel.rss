@@ -34,7 +34,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:episode>2</itunes:episode>
       <link>https://threatreel.com</link>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Fri, 14 May 2021 12:00:00 -0400</pubDate>
+      <pubDate>Fri, 14 May 2021 10:00:00 -0400</pubDate>
     </item>
     <item>
       <title>HAFNIUM, Then and Now | ThreatReel S01E01</title>
@@ -49,7 +49,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:episode>1</itunes:episode>
       <link>https://threatreel.com</link>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Fri, 23 Apr 2021 12:00:00 -0400</pubDate>
+      <pubDate>Fri, 23 Apr 2021 10:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Introducing the ThreatReel Podcast | ThreatReel Pilot Episode S01E00</title>
@@ -64,7 +64,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:episode>0</itunes:episode>
       <link>https://threatreel.com</link>
       <itunes:explicit>false</itunes:explicit>
-      <pubDate>Fri, 09 Apr 2021 12:00:00 -0400</pubDate>
+      <pubDate>Fri, 09 Apr 2021 10:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
