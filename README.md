@@ -11,7 +11,7 @@ Matt Scheurer ([cerkah](https://github.com/cerkah)) is the show host of the Thre
 
 ### Co-Host: Micah K. Brown
 ![Micah](./assets/images/micah_300-300.png)<br>
-Micah K. Brown ([micahkbrown](https://github.com/micahkbrown)) is co-host of the ThreatReel Podcast. By day, Micah K. Brown is a member of the IT Security Architect team at [REDACTED] focused on building out the next generation of IT security services and IT security controls. By night, Brown serves on the Cannon Fodder Security Board as a Queen City Con Organizer and has had the honor to present at many diverse and prestigious IT security conferences.
+Micah K. Brown ([micahkbrown](https://github.com/micahkbrown)) is co-host of the ThreatReel Podcast. By day, Micah K. Brown is a member of the IT Security Architect team at [REDACTED] focused on building out the next generation of IT security services and IT security controls. By night, Brown serves on the Cannon Fodder Security Board as a Queen City Con Organizer and has had the honor to present at many diverse and prestigious IT security conferences. Micah was also awarded a "Black Badge" for continuous community engagement at Queen City Con in 2024.
 
 ### Senior Engineer: Tuan Q. Phan
 ![Tuan](./assets/images/tuan_300-300.png)<br>
